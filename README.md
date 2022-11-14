@@ -3,7 +3,7 @@
 Python Libraries Used:-
                       Pandas, Numpy, Matplotlib ,Seaborn, Scikit-learn
                       
-##Using Linear Regression for predictive analysis 
+## Using Linear Regression for predictive analysis 
 
 Using regression on a hypothetical dataset to predict future values and the relationship between the two variables
 
