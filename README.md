@@ -5,7 +5,7 @@ Python Libraries Used:-
                       
 ## Using Linear Regression for predictive analysis 
 
-Using regression on a hypothetical dataset to predict future values and the relationship between the two variables
+Using regression on a sample dataset to predict future values and the relationship between the two variables
 
 Variable Y = Revenue 
 Variable X = Budget
